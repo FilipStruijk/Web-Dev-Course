@@ -1,0 +1,23 @@
+/* Write your code here: */
+
+h1, h2{
+    color: blueviolet;
+}
+
+.box > .done{              /*her kan vi også p, istedet for .done, for at sige det er "paragrafen" vi vil hentyde til*/
+    color: firebrick;
+}
+
+.list li{
+    color: blue;
+}
+
+li.done{
+    color: seagreen;
+}
+
+
+ul p.done{
+    font-size: 0.5rem;
+
+}
