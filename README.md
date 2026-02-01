@@ -1,3 +1,3 @@
 Hello World!
 This is just a course that i have taken.
-You will probaly not finde any revolutionary code here!
+You will probably not find any revolutionary code here!
