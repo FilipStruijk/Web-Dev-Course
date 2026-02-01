@@ -46,7 +46,7 @@ bld/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
-
+.DS_Store
 # Build results on 'Bin' directories
 **/[Bb]in/*
 # Uncomment if you have tasks that rely on *.refresh files to move binaries
@@ -427,4 +427,7 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
-C:\Users\filip\Documents\Kode\Web Dev Bootcamp\Html\2.4 Movie Ranking Project\Movie ranking.html
+
+# Files
+API/5.4 API Auth/index.js
+API/5.5 REST APIs/index.js
