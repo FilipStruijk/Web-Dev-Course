@@ -431,3 +431,5 @@ FodyWeavers.xsd
 # Files
 API/5.4 API Auth/index.js
 API/5.5 REST APIs/index.js
+API/5.6 Secrets Project/index.js
+API\6.0 DIY API
